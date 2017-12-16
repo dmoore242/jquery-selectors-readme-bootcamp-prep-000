@@ -12,5 +12,5 @@ function ninjaBabySelector () {
 }
 
 function divSelector() {
-  return $("div").find(".pics")
+  return $("div.has()
 }
